@@ -1,4 +1,5 @@
 jupyterlab
+matplotlib
 pandas
 pyarrow
 scikit-learn
