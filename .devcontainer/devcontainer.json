@@ -7,7 +7,8 @@
                 "ms-python.python",
                 "mhutchie.git-graph",
                 "felipecaputo.git-project-manager",
-                "eamodio.gitlens"
+                "eamodio.gitlens",
+                "ms-toolsai.jupyter"
             ]
         }
     }
