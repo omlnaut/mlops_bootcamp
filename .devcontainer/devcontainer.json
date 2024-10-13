@@ -1,0 +1,14 @@
+{
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Codeium.codeium",
+                "ms-python.python",
+                "mhutchie.git-graph",
+                "felipecaputo.git-project-manager",
+                "eamodio.gitlens"
+            ]
+        }
+    }
+}
